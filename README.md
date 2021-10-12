@@ -1,2 +1,2 @@
-# artificial-intelligence
-to solve real world problems
+
+Data analysis with python
